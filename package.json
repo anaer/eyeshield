@@ -1,13 +1,14 @@
 {
 	"name": "eyeshield",
 	"displayName": "eyeshield",
+	"description": "护眼主题",
 	"publisher": "anaer",
 	"author": "anaer",
-	"description": "护眼主题",
-	"version": "0.0.1",
+	"version": "0.0.2",
+    "icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git@github.com:anaer/eyeshield.git"
 	},
 	"engines": {
 		"vscode": "^1.69.0"
