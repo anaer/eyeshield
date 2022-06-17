@@ -1,0 +1,27 @@
+{
+	"name": "eyeshield",
+	"displayName": "eyeshield",
+	"publisher": "anaer",
+	"author": "anaer",
+	"description": "护眼主题",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"engines": {
+		"vscode": "^1.69.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "eyeshield",
+				"uiTheme": "vs",
+				"path": "./themes/eyeshield-color-theme.json"
+			}
+		]
+	}
+}
